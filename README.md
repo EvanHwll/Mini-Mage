@@ -26,3 +26,8 @@ Initially, my scope for the game was far too big. I wanted to add character cust
 I started development and quickly realised that my scope was far too large for the project. After taking an entire day to get the enemies walking with Unity's Navmesh Agents, I knew I did not have time to finish everything I wanted to. At this point, I used an agile mindset to change the criteria of my MVP and begin working on the new goals. I frequently took short breaks to track what I had accomplished, and the next priority task to complete to ensure I stayed on track to meet deadlines.
 
 By the end of it, I had a functioning game that was playable. Despite not having all the initial Usability Features I intended, it was a successful game and I learnt alot during the process.
+
+<img width="480" height="540" alt="image 2" src="https://github.com/user-attachments/assets/4ef5ecb5-ed2f-4c62-9d40-3c27e03550c5" />
+<img width="480" height="540" alt="image 3" src="https://github.com/user-attachments/assets/7f4d7127-c5bc-4624-b1bb-458b1f7066ed" />
+<img width="480" height="540" alt="image 4" src="https://github.com/user-attachments/assets/45910fd5-7b6a-4427-8078-4b139587970c" />
+<img width="480" height="540" alt="image 1" src="https://github.com/user-attachments/assets/7fddd9c2-800c-40a1-9db9-b85ef8961c65" />
