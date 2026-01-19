@@ -1,5 +1,7 @@
 # Mini Mage
 Mini Mage is a game created in 7 days for [HawkesJam #1](https://itch.io/jam/hawkesjam) in 2024. It was made using the Unity Game Engine, with all the scripts being written in C#.
+The models were not created by me, most came from the Unity Asset Store.
+Only the most complex code files have been included.
 
 ## Key Skills Utilised
 - Time management under strict deadlines
